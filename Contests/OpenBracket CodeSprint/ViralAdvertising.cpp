@@ -23,5 +23,6 @@ int main() {
     }
 
     cout << total;
+    cout.flush();
     return 0;
 }
